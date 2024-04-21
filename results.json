@@ -1,0 +1,33 @@
+{
+    "test_preprocess": {
+      "vocab_length": 1804
+    },
+    "test_lm": {
+      "english_2_gram_length": 748,
+      "english_3_gram_length": 8239,
+      "french_3_gram_length": 8286,
+      "spanish_3_gram_length": 8469
+    },
+    "test_eval": {
+      "en_en": 26.611393401721774,
+      "en_fr": 52.63365863671335,
+      "en_tl": 70.5732793490817,
+      "en_nl": 59.87188350976276
+    },
+    "test_match": {
+      "en_en_3": 26.611393401721774,
+      "en_tl_3": 70.5732793490817,
+      "en_nl_3": 59.87188350976276
+    },
+    "test_generate": {
+      "english_1_gram": "Ign e  ia  o         ",
+      "english_2_gram": "I amy an hind he hthe t ",
+      "english_3_gram": "I am https://t.co/he the",
+      "english_4_gram": "I Lover the stand to the s",
+      "spanish_2_gram": "Soys @Mantent.co la e d",
+      "spanish_3_gram": "Soy se el en la de la e",
+      "french_2_gram": "Je suisle de ht.con @Man de",
+      "french_3_gram": "Je suist de sur le de de de"
+    }
+  }
+  
